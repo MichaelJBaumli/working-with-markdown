@@ -108,6 +108,6 @@ michaeljbaumli@gmail.com
 1. This is the first numbered point.
 1. This is the second numbered point.
 1. This is the third numbered point.
-1. This is my attempt and showing a complete lack of originality. 
+1. This is my attempt at showing a complete lack of originality. 
 
 
