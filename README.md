@@ -97,4 +97,17 @@ michaeljbaumli@gmail.com
 
 ## New Section 
 
+## This is a new Section, better than the Old New Section
+
+- This is a bulleted list
+- This is a second bulleted item
+- This is yet another bullet point
+
+## This is a Section for Numbered Points
+
+1. This is the first numbered point.
+1. This is the second numbered point.
+1. This is the third numbered point.
+1. This is my attempt and showing a complete lack of originality. 
+
 
