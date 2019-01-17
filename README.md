@@ -69,7 +69,7 @@ Images look like links with an ! in front, for example, an external image can be
 ![Hosted image](https://spacenews.com/wp-content/uploads/2018/01/fh-onpad.jpg "Falcon Heavy")
 
 If you want to know when another one of these monstrousities is launching in 2019, check here:
-[webpage] (https://en.wikipedia.org/wiki/2019_in_spaceflight)
+[webpage] https://en.wikipedia.org/wiki/2019_in_spaceflight
 
 ## Displaying Local Images
 
